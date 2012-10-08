@@ -1,0 +1,3 @@
+[zenoss.zenpacks]
+ZenPacks.Rackspace.CiscoRoute = ZenPacks.Rackspace.CiscoRoute
+
